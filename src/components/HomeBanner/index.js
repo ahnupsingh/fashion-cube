@@ -45,8 +45,8 @@ function HomeBanner(props) {
                   <div className="text-center">
                     <h1>Catalogues</h1>
                     <div className="red_button shop_now_button">
-                    <a href="#">Explore</a>
-                  </div>
+                      <a href="#">Explore</a>
+                    </div>
                   </div>
 
                 </div>
@@ -66,10 +66,11 @@ function HomeBanner(props) {
             <div className="row align-items-center fill_height">
               <div className="col">
                 <div className="main_slider_content" data-aos="fade-right">
-                  <h6>Catalogue 2023</h6>
-                  <h1>.</h1>
-                  <div className="red_button shop_now_button">
-                    <a href="#">shop now</a>
+                <div className="text-center">
+                    <h1>Catalogues 2023</h1>
+                    <div className="red_button shop_now_button">
+                      <a href="#">Explore</a>
+                    </div>
                   </div>
                 </div>
               </div>
